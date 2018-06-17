@@ -1,0 +1,9 @@
+[submodule "Passenger.Web"]
+	path = Passenger.Web
+	url = https://github.com/DenisBelov/Passengers.Web.git
+[submodule "Passengers.Web"]
+	path = Passengers.Web
+	url = https://github.com/DenisBelov/Passengers.Web.git
+[submodule "Passengers.Mobile"]
+	path = Passengers.Mobile
+	url = https://github.com/DenisBelov/Passengers.Mobile.git
